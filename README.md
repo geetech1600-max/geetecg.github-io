@@ -7,7 +7,7 @@ A modern, responsive package tracking dashboard that provides real-time shipment
 
 ## 🚀 Live Preview
 
-**Client Preview URL:** [https://yourusername.github.io/packgaflow](https://yourusername.github.io/packgaflow)
+**Client Preview URL:** [https://geetecg.github.io/packgaflow](https://geetecg.github.io/packgaflow)
 
 > ⚠️ **Note:** This is a frontend preview for client review. Backend functionality and final features are under development.
 
